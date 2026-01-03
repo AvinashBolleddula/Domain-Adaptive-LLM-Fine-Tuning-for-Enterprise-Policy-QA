@@ -30,7 +30,12 @@ This project demonstrates how small, high-quality policy data can meaningfully a
    - Internal SOPs
    - Financial / regulatory documents
 ---
+📄 Data & Document Policy
 
+> ⚠️ Note: This repository does not include source documents or generated training artifacts.  
+> Users are expected to supply their own documents and reproduce the pipeline locally or in cloud environments.
+
+---
 ## 🏗️ Architecture Diagram
 
 **Important distinction**
@@ -104,7 +109,6 @@ domain_adaptive_llm_finetuning/
 ├── syntheticdatageneration.py            # Policy-constrained instruction generation
 ├── preprocessing.py                      # Flatten + normalize instructions
 ├── dataquality.py                        # Production-grade data quality gate
-├── merge_instruction_data.py             # Merge curated + manual samples
 ├── train.py                              # PEFT fine-tuning script
 │
 ├── generated_prompt.py                   # Instruction synthesis prompt
