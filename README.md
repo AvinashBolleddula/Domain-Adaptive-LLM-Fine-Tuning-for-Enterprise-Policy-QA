@@ -231,7 +231,16 @@ ollama create llama_tuned -f Modelfile
 ollama run llama_tuned
 ```
 
+----
+## 📦 Releases & Versioning
 
+This project follows semantic versioning.
+
+- **v0.x** — Research and pipeline iteration
+- **v1.0** — Stable, production-ready fine-tuning pipeline
+
+Each release represents a reproducible milestone in data generation, quality filtering, and model specialization.
+Future releases will expand dataset scaling, training efficiency, and evaluation rigor.
 
 
 
