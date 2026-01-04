@@ -1,0 +1,17 @@
+[project]
+name = "workspace"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bitsandbytes>=0.49.0",
+    "colorama>=0.4.6",
+    "datasets>=4.4.2",
+    "docling>=2.66.0",
+    "huggingface-hub[cli]>=0.36.0",
+    "litellm>=1.80.11",
+    "peft>=0.18.0",
+    "transformers>=4.57.3",
+    "trl>=0.26.2",
+]

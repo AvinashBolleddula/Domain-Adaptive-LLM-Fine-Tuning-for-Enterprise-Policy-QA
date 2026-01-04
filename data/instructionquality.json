@@ -1,0 +1,1206 @@
+[
+  {
+    "question": "What are the units of recording leave usage?",
+    "answer": "15-minute increments"
+  },
+  {
+    "question": "How many paid holidays does HHS offer employees?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Must employees give notice before using sick leave for illness?",
+    "answer": "No, with the exception of sick leave for illness."
+  },
+  {
+    "question": "What are the time increments for leave requests between 0 and 7 minutes?",
+    "answer": "disregard"
+  },
+  {
+    "question": "How many minutes is .25 of an hour according to the policy?",
+    "answer": "15 minutes"
+  },
+  {
+    "question": "For how long must a leave request be before it is rounded up to the next increment?",
+    "answer": "8 to 22 minutes"
+  },
+  {
+    "question": "What system tool does the policy mention?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Are there any carryover provisions mentioned for accrued leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the earliest date this policy was effective?",
+    "answer": "February 5, 2018"
+  },
+  {
+    "question": "What happens if a holiday occurs while an employee is on paid leave?",
+    "answer": "the holiday time is substituted and the time is not deducted from the employee's vacation or sick leave balances"
+  },
+  {
+    "question": "Is an employee eligible for a paid day off for a holiday if it falls on a weekend?",
+    "answer": "No"
+  },
+  {
+    "question": "What is the exact number of hours an employee can work on a holiday before they are required to take compensatory time off according to this policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum amount of compensatory time an employee can accrue for working a holiday?",
+    "answer": "eight hours"
+  },
+  {
+    "question": "How long is the period during which employees can take compensatory time off after working a holiday?",
+    "answer": "12-month period"
+  },
+  {
+    "question": "Are all positions eligible to be paid for work on holidays instead of receiving compensatory time?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Where can employees find more information about holidays and their rights?",
+    "answer": "Human Resources Guidance Handbook , Chapter 2 B.1., Holidays"
+  },
+  {
+    "question": "What is the effective date of hire for a new employee who works their first scheduled workday in a calendar month?",
+    "answer": "The first day of the calendar month."
+  },
+  {
+    "question": "Does the policy consider observed holidays before an employee reports to work when determining the effective date of hire?",
+    "answer": "Yes, if the first of the month falls on a holiday, the effective date is still the first day of the calendar month."
+  },
+  {
+    "question": "What happens if the first scheduled workday of a new employee in a calendar month coincides with a weekend?",
+    "answer": "The effective date of hire is the first day of the calendar month."
+  },
+  {
+    "question": "Is there any specific mention of weekends or holidays impacting the calculation for new hires under this policy?",
+    "answer": "Yes, observed holidays and weekends are considered when determining the effective date of hire for a new employee."
+  },
+  {
+    "question": "What is the exact revision date of the policy?",
+    "answer": "October 3, 2023."
+  },
+  {
+    "question": "Does the policy specify any time increments or thresholds related to the effective date calculation?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can an employee's first scheduled workday fall on a holiday and still be considered their first day of employment under this policy?",
+    "answer": "Yes, if the first of the month falls on a holiday, the effective date is still the first day of the calendar month."
+  },
+  {
+    "question": "What happens to an employee's pay if they stop working on the last workday of a calendar month and there is an observed holiday after that?",
+    "answer": "An employee must be paid for the observed holiday if it occurs within the same month and not on a Saturday or Sunday."
+  },
+  {
+    "question": "How many days in advance does the policy specify the holiday must occur to require payment?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Does this policy apply to holidays that fall on Saturdays or Sundays?",
+    "answer": "No, holidays falling on a Saturday or Sunday are not covered by this policy."
+  },
+  {
+    "question": "What is the effective date of this policy change?",
+    "answer": "Effective February 5, 2018."
+  },
+  {
+    "question": "Is there any mention of how to handle multiple holidays in the same month?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the effective date for this policy?",
+    "answer": "February 5, 2018"
+  },
+  {
+    "question": "How many optional holidays are mentioned in the policy?",
+    "answer": "4"
+  },
+  {
+    "question": "Which system or tool is not explicitly referenced in the excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What happens if an optional holiday falls on a Saturday or Sunday?",
+    "answer": "The optional holiday does not qualify for observation under this policy."
+  },
+  {
+    "question": "How long must an employee be employed before they can use their vacation leave?",
+    "answer": "six continuous months"
+  },
+  {
+    "question": "On which day does an employee start accruing vacation leave?",
+    "answer": "on the first day of employment and on the first calendar day of each succeeding month of state employment"
+  },
+  {
+    "question": "Can employees take their accrued vacation leave during a month they are on paid leave?",
+    "answer": "No, An employee on any type of paid leave that extends into the following month will not have his or her accruals posted until the employee returns to duty, which means the employee may not take vacation leave accrued for that month until the employee returns to work."
+  },
+  {
+    "question": "What is the exact date when these rules were last revised?",
+    "answer": "Revised November 27, 2018"
+  },
+  {
+    "question": "Can part-time employees accrue vacation leave?",
+    "answer": "Yes, An employee begins to accrue vacation leave on the first day of employment and on the first calendar day of each succeeding month of state employment."
+  },
+  {
+    "question": "Is there a specific tool mentioned in this excerpt for managing leave accruals?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of vacation leave hours a full-time employee can carry forward?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How does the accrual rate for part-time employees compare to full-time employees?",
+    "answer": "Part-time employees’ accrual and maximum carryover rates are prorated based on the number of hours worked."
+  },
+  {
+    "question": "What is the exact maximum carryforward limit for vacation leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Does the policy specify a rounding rule for accrued vacation leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How many hours of vacation leave are accrued per hour worked by a full-time employee?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of hours that can be carried forward by part-time employees?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Are there any 15-minute increments for accruing vacation leave?",
+    "answer": "The policy mentions accrual and maximum carryover rates but does not specify 15-minute increments."
+  },
+  {
+    "question": "How many hours are accrued per month for someone with at least 10 but less than 15 years of service?",
+    "answer": "10"
+  },
+  {
+    "question": "In which range of years of service, the employee accrues 9 hours per month for vacation leave?",
+    "answer": "Less than 2 years"
+  },
+  {
+    "question": "What system is used to manage the leave accruals and usage according to this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "If an employee has more than 532 hours of unused vacation, what happens to the excess?",
+    "answer": "It is converted to sick leave"
+  },
+  {
+    "question": "Is it possible for an employee to be advanced leave?",
+    "answer": "An employee may not be advanced leave"
+  },
+  {
+    "question": "How is vacation leave accrual calculated for rehired retirees who retired after June 1, 2005?",
+    "answer": "Based only on service earned after their retirement date."
+  },
+  {
+    "question": "What is the maximum number of hours that can be carried forward into the next fiscal year for rehired retirees who retired after June 1, 2005?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How often are vacation leave hours rounded?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of years of state service that can be used for accruals for rehired retirees who retired before June 1, 2005?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Does CAPPS provide guidance on leave policies?",
+    "answer": "Human Resources Guidance Handbook , Chapter 2, B.2.2., Vacation Leave and Return-to-Work Retirees."
+  },
+  {
+    "question": "How many calendar days after separation can re-employment by a state agency occur for an employee to still qualify for vacation leave?",
+    "answer": "30"
+  },
+  {
+    "question": "When do accruals of vacation leave end?",
+    "answer": "on an employee's last day of duty, which is the last day that the employee is physically present for work"
+  },
+  {
+    "question": "Is there a specific tool mentioned in this excerpt to manage leave requests?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can an employee receive a lump sum payment if they separate from employment without having any accumulated vacation leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the minimum increment of donated sick leave?",
+    "answer": "whole hour increments"
+  },
+  {
+    "question": "How many minutes does a whole hour increment represent?",
+    "answer": "60 minutes"
+  },
+  {
+    "question": "Which system must be used to submit a request for donating sick leave?",
+    "answer": "CAPPS Employee Self-Service"
+  },
+  {
+    "question": "Can an employee who has donated sick leave use it for purposes other than those defined by Texas Government Code, Chapter 661.202(d) and (e)?",
+    "answer": "No"
+  },
+  {
+    "question": "Is the eligibility of a recipient for donated sick leave based on applying or being awarded extended sick leave?",
+    "answer": "No"
+  },
+  {
+    "question": "What tool should be used to define the eligible recipients of donated sick leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How often can an employee donate their accrued sick leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can employees be coerced into donating their sick leave?",
+    "answer": "No"
+  },
+  {
+    "question": "What is the minimum duration of an employee's sick leave donation?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is it permissible to offer compensation for a sick leave donation?",
+    "answer": "No"
+  },
+  {
+    "question": "Are donations of sick leave mandatory?",
+    "answer": "No"
+  },
+  {
+    "question": "Can employees solicit donations from each other?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How much sick leave do full-time employees earn per month?",
+    "answer": "eight hours"
+  },
+  {
+    "question": "When does sick leave start accruing for part-time and hourly employees?",
+    "answer": "on a prorated basis from the first day of state employment and on the first duty day of each succeeding month"
+  },
+  {
+    "question": "What are the time increments for sick leave usage?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Are there any rules about using sick leave while on leave the first day of the month?",
+    "answer": "An employee who is on leave the first day of the month may not use that month's sick leave accrual until he or she returns to duty."
+  },
+  {
+    "question": "How many hours can an employee accrue for sick leave per year?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can an employee use sick leave to care for a sibling who does not reside in their household?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the minimum time unit for using sick leave according to the policy?",
+    "answer": "15-minute increments"
+  },
+  {
+    "question": "Who can an employee use sick leave to care for, besides immediate family members who reside in their household?",
+    "answer": "Spouse, child, or parent who does not reside in the employee's household"
+  },
+  {
+    "question": "What is the Family Leave Pool?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can an employee use sick leave for personal health issues?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of hours of sick leave an employee can use per fiscal year for educational activities?",
+    "answer": "8"
+  },
+  {
+    "question": "How many working days in advance must an employee notify their supervisor if they are going to be absent for more than three consecutive working days?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there a limit to how often an employee can use sick leave in a fiscal year for educational activities?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is CAPPS?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What happens if a former state employee is rehired after more than 12 months off the payroll?",
+    "answer": "His or her sick leave balance will not be restored under any circumstance."
+  },
+  {
+    "question": "How much time must pass between separation and re-employment for the same agency to restore sick leave in cases other than formal reduction-in-force?",
+    "answer": "There must be a break in employment with the state of at least 30 calendar days."
+  },
+  {
+    "question": "If an employee separates under a formal reduction-in-force, how long does the rehire need to occur for sick leave balance restoration?",
+    "answer": "The re-employment by any state agency within 12 months of separation will restore the sick leave balance."
+  },
+  {
+    "question": "What is the threshold for restoring sick leave to an employee who separates not under a formal reduction-in-force and then returns to work with a different state agency?",
+    "answer": "An employee must be re-employed by a different state agency within 12 months after separation."
+  },
+  {
+    "question": "Is there any mention of carrying over unused sick leave balances when separating for retirement?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the last day for accrual of sick leave when an employee separates from employment?",
+    "answer": "The last duty day of an employee who separates from employment for any reason is the last day that the employee is physically present for work."
+  },
+  {
+    "question": "How many hours can be paid to the estate if a deceased employee's separation is due to death?",
+    "answer": "336 hours, or half of the accumulated sick leave, whichever is less."
+  },
+  {
+    "question": "Can an employee transfer accrued sick leave when changing jobs within the same state agency?",
+    "answer": "An employee may transfer accrued sick leave when transferring employment from one state agency to another, if employment is uninterrupted."
+  },
+  {
+    "question": "What are the options for handling unused sick leave upon separation?",
+    "answer": "Employees can donate all or a portion of unused sick leave to the sick leave pool, family leave pool or to another eligible employee upon separation."
+  },
+  {
+    "question": "Is there any mention of accrual rates or carryover caps in this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can family members initiate a request for extended sick leave?",
+    "answer": "Yes, if the illness or injury prevents the employee from personally filing a request, an immediate family member or the employee's supervisor may initiate it."
+  },
+  {
+    "question": "Is extended sick leave paid?",
+    "answer": "Yes, it is additional paid leave."
+  },
+  {
+    "question": "Can part-time employees use extended sick leave?",
+    "answer": "Yes, but it is prorated for part-time employees."
+  },
+  {
+    "question": "What must employees be eligible for to receive extended sick leave for illnesses or injuries?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of hours of extended sick leave allowed for Service Category 2 employees?",
+    "answer": "160 hours (lifetime benefit)"
+  },
+  {
+    "question": "How are part-time employee extended sick leave awards calculated?",
+    "answer": "prorated"
+  },
+  {
+    "question": "What form must an employee return to their supervisor before returning to work after using extended sick leave?",
+    "answer": "Form HR0307, Report of Medical Status/Health Care Provider's Release to Work"
+  },
+  {
+    "question": "Is there a limit on the number of hours an employee can take in a single year under extended sick leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How many hours of leave can be transferred to the family leave pool?",
+    "answer": "eight or more hours"
+  },
+  {
+    "question": "What are the eligible reasons for applying from the family leave pool?",
+    "answer": "the birth of a child; the placement of a foster child or adoption of a child under 18 years of age; the placement of any person 18 years of age or older requiring guardianship"
+  },
+  {
+    "question": "Is donation to the family leave pool mandatory?",
+    "answer": "Donations to the family leave pool are strictly voluntary"
+  },
+  {
+    "question": "What is the minimum time increment for transfers to the family leave pool?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Does the policy mention any specific tools used for managing the family leave pool?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the exact duration of family leave available under this program?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of hours an eligible employee can receive from the family leave pool?",
+    "answer": "160 hours"
+  },
+  {
+    "question": "How are family leave pool hours prorated for part-time employees?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can an employee who previously donated to the family leave pool receive more than the amount of hours they donated?",
+    "answer": "No, unless no other condition applies."
+  },
+  {
+    "question": "What is the maximum request from the family leave pool for a full-time employee?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How are unused family leave pool hours handled if an employee dies?",
+    "answer": "Unused time received by the employee from the family leave pool will not be paid to the estate of a deceased employee."
+  },
+  {
+    "question": "What form must an employee complete before returning to work after using the family leave pool for their own serious illness or injury?",
+    "answer": "Form HR0307, Report of Medical Status/Health Care Provider's Release to Work"
+  },
+  {
+    "question": "How many pages does Form HR0307 have?",
+    "answer": "2"
+  },
+  {
+    "question": "What must the supervisor provide to the employee before they return from family leave pool leave for their own serious illness or injury?",
+    "answer": "Form HR0307 (with Page 1 and Page 2 completed), a job description, and a list of physical requirements for the employee's job"
+  },
+  {
+    "question": "What form must an employee complete if they are on FMLA leave for their own serious illness or injury instead of family leave pool leave?",
+    "answer": "Form HR0512, Fitness for Duty Certification"
+  },
+  {
+    "question": "Is there any information about accrual rates or carryover caps in the provided excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of minutes between donation requests to the sick leave pool according to the policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can HHS Commissioners apply for leave from the sick leave pool?",
+    "answer": "No"
+  },
+  {
+    "question": "Who can initiate a request for leave from the sick leave pool if the employee cannot do so personally due to a catastrophic illness or injury?",
+    "answer": "an immediate family member or the employee's supervisor"
+  },
+  {
+    "question": "What is the definition of a catastrophic illness or injury according to this policy?",
+    "answer": "a life threatening disease or condition from which the likelihood of death is probable unless the course of the disease or condition is interrupted"
+  },
+  {
+    "question": "What is the maximum benefit an eligible full-time employee can request from the sick leave pool?",
+    "answer": "160 hours"
+  },
+  {
+    "question": "How are sick leave pool hours prorated for part-time employees?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Which form must be completed by the treating physician before an employee returns to work after using sick leave pool leave for their own catastrophic illness or injury?",
+    "answer": "Form HR0307"
+  },
+  {
+    "question": "What is required for an employee returning from FMLA leave due to a personal catastrophic illness or injury?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Who is responsible for providing the employee with Form HR0307, including Page 1 and Page 2 completed, a job description, and a list of physical requirements?",
+    "answer": "The supervisor"
+  },
+  {
+    "question": "What is the maximum number of weeks a part-time employee can take for FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is FMLA leave paid or unpaid for an eligible HHS employee?",
+    "answer": "accrued paid or unpaid"
+  },
+  {
+    "question": "Who qualifies for 26 weeks of FMLA leave to care for a servicemember?",
+    "answer": "spouse, child, parent, or nearest blood relative of a member or an honorably discharged veteran of the Armed Forces"
+  },
+  {
+    "question": "Can FMLA leave be used for personal reasons other than those listed?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What types of leave are covered under the Family and Medical Leave Act (FMLA)?",
+    "answer": "Birth of the employee's child and care of the infant, placement of a child with the employee for adoption or foster care and the care of the newly placed child, care of a spouse, child, or parent if that individual has a serious health condition, an employee's own serious health condition making them unable to perform job functions, and a qualifying exigency arising from a spouse, child, or parent being deployed or notified of impending deployment to a foreign country."
+  },
+  {
+    "question": "How long is the leave for the birth of an employee's child?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the definition of 'child' under FMLA according to the policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there a specific number of hours or days for leave related to an employee's own serious health condition?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the definition of 'spouse' under FMLA?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What must conclude within 12 months of the birth or placement of the child?",
+    "answer": "Note : If the leave is for the birth and care of a child, or placement for adoption or foster care, it must conclude within 12 months of the birth or placement of the child."
+  },
+  {
+    "question": "How many types of FMLA are mentioned in this excerpt?",
+    "answer": "3"
+  },
+  {
+    "question": "What is the exact number of minutes for a leave period boundary if applicable?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there any mention of carryover caps for FMLA leaves?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there a limit to the number of times an employee can use FMLA leave under this policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What must an employee provide to support a request for FMLA leave?",
+    "answer": "medical certification by the employee's health care provider"
+  },
+  {
+    "question": "How many situations are listed where medical certification is required?",
+    "answer": "3"
+  },
+  {
+    "question": "What does the term 'serious health condition' refer to in this context?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Where can one find additional information related to covered servicemembers under FMLA?",
+    "answer": "Human Resources Guidance Handbook, Chapter 2, B.6.12., Military Caregiver Leave for a Veteran under FMLA"
+  },
+  {
+    "question": "If Employee Relations has doubts about the medical certification, what must the agency do?",
+    "answer": "require the employee to obtain a second certification from a health care provider selected by the agency, at the agency's expense."
+  },
+  {
+    "question": "How many days does an employee have to provide the second certification after being asked?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the process if Employee Relations receives incomplete or insufficient medical certification?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Where can managers find additional information about FMLA?",
+    "answer": "the Manager's FMLA Checklist."
+  },
+  {
+    "question": "What is the effective date of this policy?",
+    "answer": "February 5, 2018"
+  },
+  {
+    "question": "How many months does the 12-month eligibility period cover for military caregiver leave?",
+    "answer": "12 months"
+  },
+  {
+    "question": "What tool is mentioned in this excerpt?",
+    "answer": "Manager's FMLA Checklist"
+  },
+  {
+    "question": "Is there a specified number of days or hours for leave increments?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Does the policy mention any rounding rules?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the exact duration of the 12-month period for military caregiver leave?",
+    "answer": "12 months"
+  },
+  {
+    "question": "What is the minimum state service required for FMLA eligibility?",
+    "answer": "a total of at least 12 months of state service"
+  },
+  {
+    "question": "Is paid leave or holidays counted as hours physically worked when determining eligibility?",
+    "answer": "No, any paid leave or holidays taken are not counted as hours physically worked"
+  },
+  {
+    "question": "Can employment prior to a break of seven or more years be included in calculating 12 months of state service?",
+    "answer": "No, unless the break is due to service covered by USERRA"
+  },
+  {
+    "question": "What is the Human Resources Guidance Handbook chapter that provides additional information on eligibility for FMLA leave?",
+    "answer": "Chapter 2, B.6.2."
+  },
+  {
+    "question": "How many minutes should an employee work continuously before needing a break according to this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of business days within which employees must give notice if 30 days advance notice is not possible?",
+    "answer": "two business days"
+  },
+  {
+    "question": "Who can provide notice on behalf of an employee who cannot do so personally?",
+    "answer": "the employee's spouse, family member, or other responsible party"
+  },
+  {
+    "question": "What handbook chapter provides additional information on FMLA notices and certifications?",
+    "answer": "Human Resources Guidance Handbook, Chapter 2, B.6., Employee Notice, Employer Notice and Certification"
+  },
+  {
+    "question": "Does the excerpt specify how to handle notice for unexpected medical emergencies that cannot be foreseen?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What are the specific examples of foreseeable needs for leave mentioned?",
+    "answer": "an expected birth; placement for adoption or foster care; planned medical treatment"
+  },
+  {
+    "question": "How many business days does HR have to notify an employee about their eligibility for FMLA?",
+    "answer": "five business days"
+  },
+  {
+    "question": "What form is used to notify employees of their FMLA eligibility?",
+    "answer": "Form WH-381"
+  },
+  {
+    "question": "Who is responsible for notifying employees regarding their FMLA eligibility?",
+    "answer": "Human Resources (Employee Relations)"
+  },
+  {
+    "question": "Are there specific time increments mentioned in the excerpt for leave requests?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What happens if an employee's complaint about FMLA is filed with the Department of Labor's Wage and Hour Division?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the effective date for FMLA Definitions?",
+    "answer": "Effective January 16, 2019"
+  },
+  {
+    "question": "How many types of leave are defined in this excerpt?",
+    "answer": "2"
+  },
+  {
+    "question": "What is the threshold age for a 'child' when not considering qualifying exigency or military caregiver leave?",
+    "answer": "An individual who is either under age 18 or age 18 or older and incapable of self-care because of mental or physical disability"
+  },
+  {
+    "question": "Can a Christian Scientist practitioner be considered a Health Care Provider?",
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the answer for whether the policy specifies an accrual rate or carryover cap for FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there any mention of a specific time increment for requesting leave?",
+    "answer": "15-minute increments"
+  },
+  {
+    "question": "How many types of facilities are mentioned for inpatient care?",
+    "answer": "3"
+  },
+  {
+    "question": "What is the minimum increment for FMLA leave according to the excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can health care providers from other countries be included in FMLA if they practice outside the U.S.?",
+    "answer": "Yes, if they are authorized and performing within their scope of practice as defined under such law."
+  },
+  {
+    "question": "What is an example of inpatient care according to the excerpt?",
+    "answer": "An overnight stay in a hospital, hospice, or residential medical care facility"
+  },
+  {
+    "question": "What is the minimum increment for Serious Health Condition treatment periods according to the excerpt?",
+    "answer": "15-minute increments"
+  },
+  {
+    "question": "Is a step-parent included in the definition of parent?",
+    "answer": "Yes"
+  },
+  {
+    "question": "What specific tools or systems are mentioned in this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Are there any details about accrual rates for leave under this policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum gap allowed between the first visit and the follow-up visit with a health care provider within 30 days of incapacity?",
+    "answer": "seven days"
+  },
+  {
+    "question": "How often must visits occur for a chronic serious health condition to be considered eligible for leave?",
+    "answer": "at least twice a year"
+  },
+  {
+    "question": "What is the tool used for leave management according to this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What types of conditions are included under Parent leave?",
+    "answer": "a permanent or long-term condition for which treatment may not be effective, if the employee is under the supervision of a health care provider (but is not necessarily undergoing active treatment), such as when the employee has suffered a severe stroke or is in the terminal stages of cancer; or any period of absence to receive multiple treatments by, or under the orders of, a health care provider either for restorative surgery after an accident or other injury, or for a condition that would likely result in a period of incapacity for more than three consecutive full calendar days if left untreated, such as dialysis for kidney disease or chemotherapy for cancer."
+  },
+  {
+    "question": "Does the policy specify a time increment for Parent leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can Parent leave be used for treatment of kidney disease?",
+    "answer": "Yes, for dialysis."
+  },
+  {
+    "question": "When was the FMLA designation last revised?",
+    "answer": "Revised September 1, 2024"
+  },
+  {
+    "question": "How many employees are required to identify an absence as FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the responsible department for determining FMLA eligibility?",
+    "answer": "Human Resources (Employee Relations)"
+  },
+  {
+    "question": "Is it necessary for an employee to specifically request FMLA leave?",
+    "answer": "No"
+  },
+  {
+    "question": "For what reasons can an employee be eligible for FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the exact date this policy was effective?",
+    "answer": "Effective January 16, 2019"
+  },
+  {
+    "question": "Are there specific time increments mentioned for FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What are the eligible events for FMLA designation?",
+    "answer": "- birth of the employee's child and care of the infant; - placement of a child with the employee for adoption or foster care and the care of the newly placed child; - care of the employee's spouse, child, parent, or nearest blood relative who is a covered servicemember, and who may be rendered medically unfit to perform the duties of the member's office, grade, rank, or rating; - a qualifying exigency arising from the employee's spouse, child or parent being deployed or being notified of impending deployment to a foreign country; or - the health condition of the employee or the employee's spouse, child, or parent causes the employee to be absent for more than three consecutive full calendar days."
+  },
+  {
+    "question": "Who makes the FMLA designation?",
+    "answer": "The supervisor, in consultation with Employee Relations, makes the FMLA designation in CAPPS immediately upon notification of employee eligibility from Employee Relations."
+  },
+  {
+    "question": "What is the threshold for health condition FMLA leave?",
+    "answer": "the health condition of the employee or the employee's spouse, child, or parent causes the employee to be absent for more than three consecutive full calendar days."
+  },
+  {
+    "question": "How often should leave requests be made according to the excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What does CAPPS stand for?",
+    "answer": "CAPPS"
+  },
+  {
+    "question": "What is the minimum duration of FMLA leave that can be designated according to this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How many times can an employee request an extension of leave under FMLA criteria mentioned here?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What handbook provides additional information on FMLA designation?",
+    "answer": "Human Resources Guidance Handbook, Chapter 2, B.6.7., FMLA Designation"
+  },
+  {
+    "question": "Is there a specific time frame for designating leave as FMLA after an employee returns from leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is FMLA leave paid or unpaid?",
+    "answer": "accrued paid or unpaid"
+  },
+  {
+    "question": "Can only military members themselves take FMLA for deployment?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Which armed forces are covered under this policy?",
+    "answer": "Regular Armed Forces and reserve components of the Armed Forces (National Guard and Reserves)"
+  },
+  {
+    "question": "What is the definition of 'parent' for FMLA purposes?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of calendar days for leave taken due to short-notice deployment?",
+    "answer": "7"
+  },
+  {
+    "question": "How long can leave be used after being notified of an impending call or order to covered active duty for a contingency operation?",
+    "answer": "7 calendar days beginning on the date a military member is notified"
+  },
+  {
+    "question": "Is there a specific system mentioned for tracking FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can leave be used for attending official ceremonies related to a covered active duty status?",
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the minimum notice period required for using leave due to short-notice deployment?",
+    "answer": "0 calendar days"
+  },
+  {
+    "question": "Can FMLA be used for routine childcare needs?",
+    "answer": "No"
+  },
+  {
+    "question": "What are the allowable uses of FMLA for a qualifying exigency?",
+    "answer": "Leave could be used to arrange for alternative childcare when the covered active duty or call to covered active duty status of a military member necessitates a change in the existing childcare arrangement for a child; provide childcare on an urgent, immediate need basis (but not on a routine, regular, or everyday basis) when the need to provide such care arises from the covered active duty or call to covered active duty status of a military member; and enroll in or transfer to a new school or daycare facility a child, when enrollment or transfer is necessitated by the covered active duty or call to covered active duty status of a military member."
+  },
+  {
+    "question": "How many hours can be taken for urgent childcare needs?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is FMLA leave given in increments?",
+    "answer": "15-minute increments"
+  },
+  {
+    "question": "What does CAPPS refer to?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there any limit on the number of days for arranging alternative childcare?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of 15-minute increments an employee can take for FMLA leave under this policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can leave be used to attend counseling for oneself, a family member, or the military member themselves?",
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the maximum number of days an employee can take for FMLA in a year according to this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is leave allowed for attending arrival ceremonies after deployment?",
+    "answer": "Yes"
+  },
+  {
+    "question": "Can leave be taken for a military member who is on long-term, permanent rest and recuperation leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can FMLA leave be used to care for a parent when the parent needs urgent, immediate medical attention?",
+    "answer": "Yes"
+  },
+  {
+    "question": "How many minutes is the shortest FMLA leave period mentioned in the excerpt?",
+    "answer": "0 minutes"
+  },
+  {
+    "question": "What system or tool is mentioned in this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there a carryover policy for unused FMLA leave under these circumstances?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can an employee use FMLA for routine meetings with the military member’s parent?",
+    "answer": "No"
+  },
+  {
+    "question": "What is the maximum duration of leave for a qualifying exigency?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How should an employee request leave under FMLA for a qualifying exigency?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there a specific tool or system mentioned for managing FMLA requests?",
+    "answer": "Manager's FMLA Checklist"
+  },
+  {
+    "question": "How many hours of FMLA paid parental leave are available for the birth of a child by an employee?",
+    "answer": "320 hours"
+  },
+  {
+    "question": "Are employees required to use all available vacation and sick leave before using FMLA paid parental leave?",
+    "answer": "No"
+  },
+  {
+    "question": "Is there a limit on how often an employee can take FMLA paid parental leave in a year?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the Human Resources Guidance Handbook mentioned in the excerpt called?",
+    "answer": "Human Resources Guidance Handbook"
+  },
+  {
+    "question": "What is the effective date for this policy?",
+    "answer": "February 5, 2018"
+  },
+  {
+    "question": "How many minutes must an employee wait before requesting a reasonable accommodation under ADA if their health condition continues?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can an agency deny reinstatement to an employee who was not employed due to a reduction-in-force during FMLA leave?",
+    "answer": "Yes, if the agency can show the employee would not otherwise have been employed at the time reinstatement is requested."
+  },
+  {
+    "question": "What is the minimum number of hours required before an employee may refuse an offer of a modified or alternate-duty assignment under FMLA?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is CAPPS mentioned as a tool for leave management?",
+    "answer": "No, CAPPS is not mentioned."
+  },
+  {
+    "question": "How many hours of paid leave can an employee use under this policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What should a supervisor do if neither option for the employee addresses their needs?",
+    "answer": "The supervisor should contact his or her assigned Human Resources (Employee Relations) specialist to discuss available options."
+  },
+  {
+    "question": "Is there a specific timeframe mentioned for job restoration after an employee returns from leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What form must an employee provide to Employee Relations before returning from FMLA leave for their own serious health condition?",
+    "answer": "Form HR0512, Fitness for Duty Certification, or DWC 73."
+  },
+  {
+    "question": "How many days after returning to work should the employee provide Form HR0512 according to this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Which form must be completed by a health care provider if an employee is on leave due to a workers' compensation-related injury or occupational illness?",
+    "answer": "DWC 73, Texas Workers' Compensation Work Status Report."
+  },
+  {
+    "question": "Who is responsible for providing the employee with Form HR0702, Position Description?",
+    "answer": "Employee Relations."
+  },
+  {
+    "question": "What does Employee Relations provide to the employee before their return from FMLA leave for a workers' compensation-related injury or occupational illness?",
+    "answer": "Form HR0512, and Form HR0702, Position Description (with a completed job description and a list of physical requirements for the employee's job)."
+  },
+  {
+    "question": "What is the correct answer if a question asks about accrual rates for FMLA leave hours?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Does the excerpt mention any specific time increments for providing documents after returning from FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What happens if an employee does not continue paying for additional coverage during FMLA leave?",
+    "answer": "The additional coverage will end."
+  },
+  {
+    "question": "How many days must elapse before the employee needs to pay premiums again if they reduce their coverage to Employee Only?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What handbook can an employee consult for more information on maintenance of health benefits?",
+    "answer": "Human Resources Guidance Handbook, Chapter 2, B.6.11., Maintenance of Health Benefits."
+  },
+  {
+    "question": "Can an employee's health benefits be maintained if they are on a paid leave instead of FMLA leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the time period during which 26 weeks of leave can be taken?",
+    "answer": "single 12-month period"
+  },
+  {
+    "question": "Is the leave paid or unpaid?",
+    "answer": "accrued paid or unpaid leave"
+  },
+  {
+    "question": "What does 'in outpatient status' mean in this context?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Are there any specific boundaries for leave duration mentioned?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How long after discharge can an employee take military caregiver leave for a veteran?",
+    "answer": "within the five-year period before the employee first takes military caregiver leave to care for the veteran"
+  },
+  {
+    "question": "Is there any specified number of hours or days for this leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the minimum duration required for a serious injury or illness under this policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "How often can an employee take military caregiver leave for a veteran?",
+    "answer": "not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there a specific number of minutes for leave increments mentioned?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Does the leave period include the time between October 28, 2009, and March 8, 2013?",
+    "answer": "No"
+  },
+  {
+    "question": "What is CAPPS mentioned in the context of this policy?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum length of leave an employee can claim during a single 12-month period?",
+    "answer": "26 weeks"
+  },
+  {
+    "question": "What is the duration of the 12-month period for military caregiver leave?",
+    "answer": "12 months"
+  },
+  {
+    "question": "Is there any information about the approval process for this type of leave in the excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the effective date of this policy?",
+    "answer": "February 5, 2018"
+  },
+  {
+    "question": "How many years has this policy been revised as of September 1, 2024?",
+    "answer": "6 years"
+  },
+  {
+    "question": "Is sick leave required to be used concurrently with FMLA leave?",
+    "answer": "Yes"
+  },
+  {
+    "question": "What happens if an employee is on FMLA leave and receiving workers' compensation benefits?",
+    "answer": "They are not required to first exhaust vacation leave or sick leave while receiving those benefits"
+  },
+  {
+    "question": "Where can employees find more information about temporary disability benefit payments?",
+    "answer": "https://reedgrouptipp.com/benefits-short-term-disability-overview/"
+  },
+  {
+    "question": "What is the maximum amount of sick leave an employee can accrue according to this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Are there specific time increments for using sick leave?",
+    "answer": "No"
+  },
+  {
+    "question": "What happens if an employee exhausts all applicable accrued paid leave during FMLA leave?",
+    "answer": "The supervisor will place the employee on unpaid leave for the remainder of the FMLA entitlement period."
+  },
+  {
+    "question": "What is the maximum number of 15-minute increments mentioned in the excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Is there any mention of sick leave accrual rates or carryover caps in this excerpt?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What chapter provides information on the approval process for unpaid leave during FMLA leave?",
+    "answer": "Chapter 2, B.8.5., Unpaid Leave"
+  },
+  {
+    "question": "Are employees required to use their current leave balances before taking FMLA paid parental leave?",
+    "answer": "No"
+  },
+  {
+    "question": "What types of leave are excluded from being used before FMLA paid parental leave?",
+    "answer": "vacation, sick, FLSA overtime, state compensatory time, administrative leave, special leave"
+  },
+  {
+    "question": "What is the name of the handbook providing additional information on FMLA?",
+    "answer": "Human Resources Guidance Handbook"
+  },
+  {
+    "question": "Is there a specific tool or system mentioned for managing FMLA requests?",
+    "answer": "Manager's FMLA Checklist"
+  },
+  {
+    "question": "Are there any limits on the duration of FMLA paid parental leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "Can employees accrue additional leave during their FMLA paid parental leave?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What are the eligibility criteria for taking parental leave?",
+    "answer": "a total of less than 12 months of state service; or worked fewer than 1,250 hours in the 12 months immediately preceding the leave."
+  },
+  {
+    "question": "Must employees use accrued paid leave while on parental leave?",
+    "answer": "Employees are required to use all applicable accrued paid leave while taking the 12 weeks of parental leave."
+  },
+  {
+    "question": "Can sick leave be used for reasons other than those that clearly fall within its definition?",
+    "answer": "No"
+  },
+  {
+    "question": "Are employees who receive workers' compensation benefits required to exhaust vacation or sick leave before using parental leave?",
+    "answer": "Employees who are receiving workers' compensation benefits, and who are otherwise eligible to use parental leave, are not required to first exhaust vacation leave or sick leave while receiving those benefits."
+  },
+  {
+    "question": "Is parental leave considered paid or unpaid?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the Family Leave Pool, and where can more information be found?",
+    "answer": "For more information on the Family Leave Pool, see Chapter 2, B.5., Leave Pools."
+  },
+  {
+    "question": "When does parental leave end for an employee adopting a child over three years old?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "What is the maximum number of hours an employee can receive for administrative leave?",
+    "answer": "32 hours"
+  },
+  {
+    "question": "Can administrative leave be carried over beyond a biennium?",
+    "answer": "Not specified in the provided excerpt."
+  },
+  {
+    "question": "For how long can employees carry administrative leave within the same biennium?",
+    "answer": "Employees may carry administrative leave from one fiscal year to the next in the same biennium."
+  },
+  {
+    "question": "Who must approve carrying over unused administrative leave into the next biennium?",
+    "answer": "The HHS Executive Commissioner"
+  },
+  {
+    "question": "What is the condition for employees to use administrative leave when separating from employment?",
+    "answer": "Employees separating from employment may use administrative leave only to the end of the month in which they last physically worked."
+  }
+]

@@ -1,0 +1,40 @@
+# ------------------------------
+# Python / Environment
+# ------------------------------
+.venv/
+__pycache__/
+*.pyc
+.python-version
+
+# ------------------------------
+# Editor / OS
+# ------------------------------
+.vscode/
+.DS_Store
+
+# ------------------------------
+# Training Outputs & Checkpoints
+# ------------------------------
+checkpoints/**/*
+!checkpoints/**/adapter_config.json
+
+# Ignore model weights & safetensors everywhere
+*.safetensors
+*.bin
+final_model/
+
+# ------------------------------
+# Generated / Intermediate Data
+# ------------------------------
+dropped.json
+qualityresults.json
+testsamples.json
+
+enterprise_leave_benefits_policy_excerpt.json
+enterprise_leave_benefits_policy_excerpt.pdf
+
+# ------------------------------
+# Logs & Caches
+# ------------------------------
+*.log
+.cache/
