@@ -103,8 +103,8 @@ domain_adaptive_llm_finetuning/
 │   
 │
 ├── checkpoints/
-│   ├── model.safetensors                 # Trained LoRA adapter
-│   └── adapter_config.json
+│   ├── adapter_config.json               
+│   
 │
 ├── syntheticdatageneration.py            # Policy-constrained instruction generation
 ├── preprocessing.py                      # Flatten + normalize instructions
